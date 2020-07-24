@@ -11,8 +11,8 @@ function App() {
     <div className="App">
       <Navbar />
       <Router>
-        <Route exact path="/car-configurator--pt2" component={Exterior}/>
-        <Route exact path="/car-configurator--pt2/interior" component={Interior}/>
+        <Route exact path="/" component={Exterior}/>
+        <Route exact path="/interior" component={Interior}/>
       </Router>
     <div className="bottom-page">
       <Footer />

@@ -19,10 +19,10 @@ function Navbar(){
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link" href="/car-configurator--pt2">Exterior</a>
+              <a className="nav-link" href="/">Exterior</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/car-configurator--pt2/interior">Interior</a>
+              <a className="nav-link" href="/interior">Interior</a>
             </li>
             <button id="navbarbtn">Order Your Super Cooper</button>
           </ul>
