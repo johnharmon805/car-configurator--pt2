@@ -3,9 +3,6 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import './App.css';
 import Exterior from '../Pages/Exterior/Exterior';
 import Interior from '../Pages/Interior/Interior';
-import Login from '../Pages/Login/Login';
-import Profile from '../Pages/Profile/Profile'
-import Register from '../Pages/Register/Register'
 import Navbar from "../Components/Navbar/Navbar";
 import Footer from "../Components/Footer/Footer";
 
