@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/car-configurator--pt2/static/css/main.d71c8af2.chunk.css",
+    "main.js": "/car-configurator--pt2/static/js/main.6dc13938.chunk.js",
+    "main.js.map": "/car-configurator--pt2/static/js/main.6dc13938.chunk.js.map",
+    "runtime-main.js": "/car-configurator--pt2/static/js/runtime-main.61ca5ded.js",
+    "runtime-main.js.map": "/car-configurator--pt2/static/js/runtime-main.61ca5ded.js.map",
+    "static/js/2.59ce3701.chunk.js": "/car-configurator--pt2/static/js/2.59ce3701.chunk.js",
+    "static/js/2.59ce3701.chunk.js.map": "/car-configurator--pt2/static/js/2.59ce3701.chunk.js.map",
+    "index.html": "/car-configurator--pt2/index.html",
+    "precache-manifest.1563cc223d14c73c088bee167b8e8a8a.js": "/car-configurator--pt2/precache-manifest.1563cc223d14c73c088bee167b8e8a8a.js",
+    "service-worker.js": "/car-configurator--pt2/service-worker.js",
+    "static/css/main.d71c8af2.chunk.css.map": "/car-configurator--pt2/static/css/main.d71c8af2.chunk.css.map",
+    "static/js/2.59ce3701.chunk.js.LICENSE.txt": "/car-configurator--pt2/static/js/2.59ce3701.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61ca5ded.js",
+    "static/js/2.59ce3701.chunk.js",
+    "static/css/main.d71c8af2.chunk.css",
+    "static/js/main.6dc13938.chunk.js"
+  ]
+}
