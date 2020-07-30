@@ -168,6 +168,10 @@
         width: 524px;
         height: 172px;
     }
+    #nextbtn {
+        position: relative;
+        top: 200px;
+    }
 }
 @media only screen and (max-width: 1024px) {
     #opaque {
@@ -251,3 +255,13 @@
         bottom: 300px;
     }
 }
+#nextbtn {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    border-radius: 30px;
+    font-weight: 600;  
+ } 

@@ -68,6 +68,12 @@ class Exterior extends React.Component {
             </div>
         </div>
     </div>
+    <div className="row nextbutton">
+        <div className="col-lg-6"></div>
+        <div className="col-lg">
+            <a href="/interior"><button id="nextbtn">Next</button></a>
+        </div>
+    </div>
 </div>
             ) 
     }
