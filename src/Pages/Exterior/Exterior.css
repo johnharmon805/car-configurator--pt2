@@ -159,6 +159,7 @@
         height: 300px;
         width: 610px;
         z-index: 20;
+        margin-bottom: -150px;
     }
     #opaque {
         z-index: 30;
@@ -170,7 +171,7 @@
     }
     #nextbtn {
         position: relative;
-        top: 200px;
+        top: 10px
     }
 }
 @media only screen and (max-width: 1024px) {
@@ -256,6 +257,8 @@
     }
 }
 #nextbtn {
+    position: relative;
+    bottom: 300px;
     color: white;
     background-color: red;
     padding: 10px;
